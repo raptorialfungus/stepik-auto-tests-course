@@ -1,2 +1,2 @@
 # stepik-auto-tests-course
-задания к курсу
+Задания к курсу "Автоматизация тестирования с помощью Selenium и Python" на Stepik.org
