@@ -1,5 +1,3 @@
-from selenium import webdriver
-import pytest
 import time
 
 def test_should_see_basket_button(browser):
